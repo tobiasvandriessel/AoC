@@ -1,0 +1,7 @@
+[package]
+name = "Day2Part1"
+version = "0.1.0"
+authors = ["Tobias van Driessel <tobiasvandriessel@startmail.com>"]
+edition = "2018"
+
+[dependencies]
